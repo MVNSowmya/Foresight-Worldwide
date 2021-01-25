@@ -7,3 +7,5 @@ Note: To run the file on localhost, place all the files in a folder, place the f
 C:/ ---> wamp64 ---> www ---> { Place the folder }
 
 This is an online medical consultation project.
+
+Note: Go through the dbconnection.php file for connection properties.
